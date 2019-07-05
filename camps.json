@@ -1,0 +1,1344 @@
+{
+  "camps": [
+    {
+      "name": "Mobile Station",
+      "street1": "4425 Demetropolis Road",
+      "street2": null,
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36619",
+      "phone": "(251) 660-1445",
+      "fax": "(251) 660-1495"
+    },
+    {
+      "name": "Ajo Station",
+      "street1": "850 North Highway 85",
+      "street2": null,
+      "city": "Why",
+      "state": "AZ",
+      "zip": "85321-9634",
+      "phone": "(520) 387-7002",
+      "fax": "(520) 387-6620"
+    },
+    {
+      "name": "Brian A. Terry Station",
+      "street1": "2136 South Naco Highway",
+      "street2": null,
+      "city": "Bisbee",
+      "state": "AZ",
+      "zip": "85603",
+      "phone": "(520) 432-5121",
+      "fax": "(520) 432-5219"
+    },
+    {
+      "name": "Casa Grande Station",
+      "street1": "396 Camino Mercado",
+      "street2": null,
+      "city": "Casa Grande",
+      "state": "AZ",
+      "zip": "85122",
+      "phone": "(520) 836-7812",
+      "fax": "(520) 423-2341"
+    },
+    {
+      "name": "Douglas Station",
+      "street1": "1608 South Kings Highway",
+      "street2": null,
+      "city": "Douglas",
+      "state": "AZ",
+      "zip": "85607",
+      "phone": "(520) 805-6900",
+      "fax": "(520) 805-8080"
+    },
+    {
+      "name": "Nogales Station",
+      "street1": "1500 West La Quinta Road",
+      "street2": null,
+      "city": "Nogales",
+      "state": "AZ",
+      "zip": "85621",
+      "phone": "(520) 761-2400",
+      "fax": "(520) 761-2628"
+    },
+    {
+      "name": "Sonoita Station",
+      "street1": "3225 Highway 82",
+      "street2": null,
+      "city": "Sonoita",
+      "state": "AZ",
+      "zip": "85637",
+      "phone": "(520) 455-5051",
+      "fax": "(520) 455-5807"
+    },
+    {
+      "name": "Tucson Station",
+      "street1": "2430 South Swan Road",
+      "street2": null,
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85711",
+      "phone": "(520) 514-4700",
+      "fax": "(520) 514-4760"
+    },
+    {
+      "name": "Wellton Station",
+      "street1": "10888 Avenue 31E",
+      "street2": null,
+      "city": "Wellton",
+      "state": "AZ",
+      "zip": "85356",
+      "phone": "(928) 785-9364",
+      "fax": "(928) 785-4582"
+    },
+    {
+      "name": "Willcox Station",
+      "street1": "200 South Rex Allen Jr. Road",
+      "street2": null,
+      "city": "Willcox",
+      "state": "AZ",
+      "zip": "85643",
+      "phone": "(520) 384-7200",
+      "fax": "(520) 384-7249"
+    },
+    {
+      "name": "Yuma Station",
+      "street1": "4151 South Avenue A",
+      "street2": null,
+      "city": "Yuma",
+      "state": "AZ",
+      "zip": "85365",
+      "phone": "(928) 341-2800",
+      "fax": "(928) 344-1184"
+    },
+    {
+      "name": "Blythe Station",
+      "street1": "16870 West Hobson Way",
+      "street2": null,
+      "city": "Blythe",
+      "state": "CA",
+      "zip": "92226",
+      "phone": "(760) 922-6715",
+      "fax": "(760) 922-5179"
+    },
+    {
+      "name": "Boulevard Station",
+      "street1": "2463 Ribbonwood Road",
+      "street2": null,
+      "city": "Boulevard",
+      "state": "CA",
+      "zip": "91905",
+      "phone": "(619) 766-3000",
+      "fax": "(619) 766-9060"
+    },
+    {
+      "name": "Brown Field Station",
+      "street1": "7560 Britannia Court",
+      "street2": null,
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92154",
+      "phone": "(619) 671-1800",
+      "fax": "(619) 661-9340"
+    },
+    {
+      "name": "Calexico Station",
+      "street1": "1150 Birch Street",
+      "street2": null,
+      "city": "Calexico",
+      "state": "CA",
+      "zip": "92231",
+      "phone": "(760) 768-7000",
+      "fax": "(760) 357-3748"
+    },
+    {
+      "name": "Campo Station",
+      "street1": "32355 Old Highway 80",
+      "street2": null,
+      "city": "Pine Valley",
+      "state": "CA",
+      "zip": "91962",
+      "phone": "(619) 938-8700",
+      "fax": "(619) 478-9793"
+    },
+    {
+      "name": "Chula Vista Station",
+      "street1": "311 Athey Street",
+      "street2": null,
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92173",
+      "phone": "(619) 498-9700",
+      "fax": "Fax:"
+    },
+    {
+      "name": "El Cajon Station",
+      "street1": "225 Kenney Street",
+      "street2": null,
+      "city": "El Cajon",
+      "state": "CA",
+      "zip": "92020",
+      "phone": "(619) 258-4500",
+      "fax": "(619) 596-6054"
+    },
+    {
+      "name": "El Centro Station",
+      "street1": "221 West Aten Road",
+      "street2": null,
+      "city": "Imperial",
+      "state": "CA",
+      "zip": "92251",
+      "phone": "(760) 337-7100",
+      "fax": "(760) 337-7291"
+    },
+    {
+      "name": "Imperial Beach Station",
+      "street1": "1802 Saturn Boulevard",
+      "street2": null,
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92154",
+      "phone": "(619) 628-2900",
+      "fax": "(619) 628-4460"
+    },
+    {
+      "name": "Indio Station",
+      "street1": "45-620 Commerce Street",
+      "street2": null,
+      "city": "Indio",
+      "state": "CA",
+      "zip": "92201",
+      "phone": "(760) 347-3658",
+      "fax": "(760) 342-9848"
+    },
+    {
+      "name": "San Clemente Station",
+      "street1": "San Onofre - Weigh Scales",
+      "street2": "Mile Marker 67 I-5",
+      "city": "San Clemente",
+      "state": "CA",
+      "zip": "92674",
+      "phone": "(760) 430-7029",
+      "fax": "(619) 557-6386"
+    },
+    {
+      "name": "Theodore L. Newton, Jr. and George F. Azrak Station",
+      "street1": "25762 Madison Avenue",
+      "street2": null,
+      "city": "Murrieta",
+      "state": "CA",
+      "zip": "92562",
+      "phone": "(951) 816-3000",
+      "fax": "(951) 816-3030"
+    },
+    {
+      "name": "Dania Beach Station",
+      "street1": "1800 NE 7th Avenue",
+      "street2": null,
+      "city": "Dania Beach",
+      "state": "FL",
+      "zip": "33004",
+      "phone": "(954) 496-8300",
+      "fax": "(954) 713-1208"
+    },
+    {
+      "name": "Jacksonville Station",
+      "street1": "489 Dundas Drive",
+      "street2": null,
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32218",
+      "phone": "(904) 714-0225",
+      "fax": "(904) 757-2589"
+    },
+    {
+      "name": "Marathon Station",
+      "street1": "3770 Overseas Highway",
+      "street2": "Fat Deer Key",
+      "city": "Marathon",
+      "state": "FL",
+      "zip": "33050",
+      "phone": "(305) 289-0942",
+      "fax": "(305) 743-6091"
+    },
+    {
+      "name": "Orlando Station",
+      "street1": "2348 Trade Port Drive",
+      "street2": null,
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "(407) 967-4000",
+      "fax": "(407) 967-4033"
+    },
+    {
+      "name": "Tampa Station",
+      "street1": "3811 Corporex Park Drive",
+      "street2": null,
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33619",
+      "phone": "(813) 623-5101",
+      "fax": "(813) 623-5011"
+    },
+    {
+      "name": "West Palm Beach Station",
+      "street1": "3301 Lake Shore Drive",
+      "street2": null,
+      "city": "Riviera Beach",
+      "state": "FL",
+      "zip": "33404",
+      "phone": "(561) 848-6161",
+      "fax": "(561) 881-5229"
+    },
+    {
+      "name": "Bonners Ferry Station",
+      "street1": "112 Moon Shadow Road",
+      "street2": null,
+      "city": "Bonners Ferry",
+      "state": "ID",
+      "zip": "83805",
+      "phone": "(208) 267-2734",
+      "fax": "(208) 267-0409"
+    },
+    {
+      "name": "Baton Rouge Station",
+      "street1": "11655 Southfork Avenue",
+      "street2": null,
+      "city": "Baton Rouge",
+      "state": "LA",
+      "zip": "70816",
+      "phone": "(225) 298-5501",
+      "fax": "(225) 298-5505"
+    },
+    {
+      "name": "Lake Charles Station",
+      "street1": "152 Marine Street",
+      "street2": null,
+      "city": "Lake Charles",
+      "state": "LA",
+      "zip": "70601-5612",
+      "phone": "(337) 721-3400",
+      "fax": "(337) 721-3405"
+    },
+    {
+      "name": "New Orleans Station",
+      "street1": "3819 Patterson Road",
+      "street2": null,
+      "city": "New Orleans",
+      "state": "LA",
+      "zip": "70114",
+      "phone": "(504) 376-2830",
+      "fax": "(504) 376-2836"
+    },
+    {
+      "name": "Calais Station",
+      "street1": "67 Park Road",
+      "street2": null,
+      "city": "Baring",
+      "state": "ME",
+      "zip": "04694",
+      "phone": "(207) 454-3613",
+      "fax": "(207) 454-7257"
+    },
+    {
+      "name": "Fort Fairfield Station",
+      "street1": "200 Limestone Road",
+      "street2": null,
+      "city": "Fort Fairfield",
+      "state": "ME",
+      "zip": "04742",
+      "phone": "(207) 472-5041",
+      "fax": "(207) 473-7330"
+    },
+    {
+      "name": "Houlton Station",
+      "street1": "591 North Street",
+      "street2": null,
+      "city": "Houlton",
+      "state": "ME",
+      "zip": "04730",
+      "phone": "(207) 532-9061",
+      "fax": "(207) 532-9309"
+    },
+    {
+      "name": "Jackman Station",
+      "street1": "229 Long Pond Road",
+      "street2": null,
+      "city": "Jackman",
+      "state": "ME",
+      "zip": "04945",
+      "phone": "(207) 668-3151",
+      "fax": "(207) 668-4112"
+    },
+    {
+      "name": "Rangeley Station",
+      "street1": "224 Stratton Road",
+      "street2": null,
+      "city": "Dallas Plantation",
+      "state": "ME",
+      "zip": "04970",
+      "phone": "(207) 864-5356",
+      "fax": "(207) 864-2740"
+    },
+    {
+      "name": "Van Buren Station",
+      "street1": "9 Main Street",
+      "street2": null,
+      "city": "Van Buren",
+      "state": "ME",
+      "zip": "04785",
+      "phone": "(207) 868-3900",
+      "fax": "(207) 868-2908"
+    },
+    {
+      "name": "Detroit Station",
+      "street1": "11700 E. Jefferson Avenue",
+      "street2": null,
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48214",
+      "phone": "(313) 926-4700",
+      "fax": "(313) 926-4790"
+    },
+    {
+      "name": "Gibraltar Station",
+      "street1": "14801 Middle Gibraltar Road",
+      "street2": null,
+      "city": "Gibraltar",
+      "state": "MI",
+      "zip": "48173",
+      "phone": "(734) 676-2972",
+      "fax": "(734) 676-4145"
+    },
+    {
+      "name": "Marysville Station",
+      "street1": "2600 Wills Road",
+      "street2": null,
+      "city": "Marysville",
+      "state": "MI",
+      "zip": "48040",
+      "phone": "(810) 989-5056",
+      "fax": "(810) 364-9273"
+    },
+    {
+      "name": "Sault Sainte Marie Station",
+      "street1": "208 Bingham Avenue",
+      "street2": null,
+      "city": "Sault Ste. Marie",
+      "state": "MI",
+      "zip": "49783",
+      "phone": "(906) 632-3383",
+      "fax": "(906) 632-4252"
+    },
+    {
+      "name": "Duluth Station",
+      "street1": "4431 Endeavor Drive",
+      "street2": null,
+      "city": "Duluth",
+      "state": "MN",
+      "zip": "55811",
+      "phone": "(218) 720-5465",
+      "fax": "(218) 720-5402"
+    },
+    {
+      "name": "Grand Marais Station",
+      "street1": "315 South Broadway",
+      "street2": null,
+      "city": "Grand Marais",
+      "state": "MN",
+      "zip": "55604",
+      "phone": "(218) 387-1770",
+      "fax": "(218) 387-2035"
+    },
+    {
+      "name": "International Falls Station",
+      "street1": "312 Highway 11 East",
+      "street2": null,
+      "city": "International Falls",
+      "state": "MN",
+      "zip": "56649",
+      "phone": "(218) 285-3423",
+      "fax": "(218) 285-3428"
+    },
+    {
+      "name": "Pembina Station",
+      "street1": "4151 U.S. Highway 75",
+      "street2": null,
+      "city": "Noyes",
+      "state": "MN",
+      "zip": "56740",
+      "phone": "(218) 823-6528",
+      "fax": "(218) 823-6607"
+    },
+    {
+      "name": "Warroad Station",
+      "street1": null,
+      "street2": null,
+      "city": "Warroad",
+      "state": "MN",
+      "zip": "56763",
+      "phone": "(218) 386-1802",
+      "fax": "(218) 386-3027"
+    },
+    {
+      "name": "Gulfport Station",
+      "street1": "10400 Larkin-Smith Drive",
+      "street2": null,
+      "city": "Gulfport",
+      "state": "MS",
+      "zip": "39503",
+      "phone": "(228) 896-0884",
+      "fax": "(228) 896-8209"
+    },
+    {
+      "name": "Eureka Station",
+      "street1": "7695 Airport Road",
+      "street2": null,
+      "city": "Eureka",
+      "state": "MT",
+      "zip": "59917",
+      "phone": "(406) 889-9081",
+      "fax": "(406) 889-9009"
+    },
+    {
+      "name": "Havre Station",
+      "street1": "345 16th Avenue West",
+      "street2": null,
+      "city": "Havre",
+      "state": "MT",
+      "zip": "59501",
+      "phone": "(406) 395-6100",
+      "fax": "(406) 395-6190"
+    },
+    {
+      "name": "Malta Station",
+      "street1": "47152 U.S. Highway 2",
+      "street2": null,
+      "city": "Malta",
+      "state": "MT",
+      "zip": "59538",
+      "phone": "(406) 654-2711",
+      "fax": "(406) 654-1832"
+    },
+    {
+      "name": "Plentywood Station",
+      "street1": "31 Highway 16 North",
+      "street2": null,
+      "city": "Plentywood",
+      "state": "MT",
+      "zip": "59254",
+      "phone": "(406) 765-1852",
+      "fax": "(406) 765-1448"
+    },
+    {
+      "name": "Scobey Station",
+      "street1": "131C Highway 5 East",
+      "street2": null,
+      "city": "Scobey",
+      "state": "MT",
+      "zip": "59263",
+      "phone": "(406) 487-2621",
+      "fax": "(406) 487-2763"
+    },
+    {
+      "name": "St. Mary Station",
+      "street1": "4999 U.S. Highway 89",
+      "street2": null,
+      "city": "Babb",
+      "state": "MT",
+      "zip": "59411",
+      "phone": "(406) 732-5982",
+      "fax": "(406) 732-5984"
+    },
+    {
+      "name": "Sweetgrass Station",
+      "street1": "37 Nine Mile Road",
+      "street2": null,
+      "city": "Sunburst",
+      "state": "MT",
+      "zip": "59482",
+      "phone": "(406) 937-8800",
+      "fax": "(406) 937-8891"
+    },
+    {
+      "name": "Whitefish Station",
+      "street1": "1335 Highway 93 West",
+      "street2": null,
+      "city": "Whitefish",
+      "state": "MT",
+      "zip": "59937",
+      "phone": "(406) 862-2561",
+      "fax": "(406) 862-2599"
+    },
+    {
+      "name": "Alamogordo Station",
+      "street1": "1997 Highway 54 South",
+      "street2": null,
+      "city": "Alamogordo",
+      "state": "NM",
+      "zip": "88310-7377",
+      "phone": "(575) 812-6840",
+      "fax": "(575) 434-5937"
+    },
+    {
+      "name": "Albuquerque Station",
+      "street1": "2301 Yale Boulevard SE",
+      "street2": null,
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87119",
+      "phone": "(505) 346-6962",
+      "fax": "(505) 346-6966"
+    },
+    {
+      "name": "Deming Station",
+      "street1": "3300 J Street",
+      "street2": null,
+      "city": "Deming",
+      "state": "NM",
+      "zip": "88030-7146",
+      "phone": "(575) 544-6100",
+      "fax": "(575) 544-6199"
+    },
+    {
+      "name": "Las Cruces Station",
+      "street1": "3120 North Main Street",
+      "street2": null,
+      "city": "Las Cruces",
+      "state": "NM",
+      "zip": "88001-1162",
+      "phone": "(575) 528-6600",
+      "fax": "(575) 527-6897"
+    },
+    {
+      "name": "Lordsburg Station",
+      "street1": "26 Pipeline Road",
+      "street2": null,
+      "city": "Lordsburg",
+      "state": "NM",
+      "zip": "88045-1231",
+      "phone": "(575) 542-6000",
+      "fax": "(575) 542-8911"
+    },
+    {
+      "name": "Santa Teresa Station",
+      "street1": "1005 NM Highway 9",
+      "street2": null,
+      "city": "Santa Teresa",
+      "state": "NM",
+      "zip": "88008",
+      "phone": "(575) 874-6800",
+      "fax": "(575) 589-4972"
+    },
+    {
+      "name": "Truth or Consequences Station",
+      "street1": "Mile Post 82, I-25 North",
+      "street2": null,
+      "city": "Truth or Consequences",
+      "state": "NM",
+      "zip": "87901",
+      "phone": "(575) 744-5235",
+      "fax": "(575) 744-5029"
+    },
+    {
+      "name": "Buffalo Station",
+      "street1": "600 Colvin Woods Parkway",
+      "street2": null,
+      "city": "Tonawanda",
+      "state": "NY",
+      "zip": "14150",
+      "phone": "(716) 862-7000",
+      "fax": "(716) 838-4534"
+    },
+    {
+      "name": "Burke Station",
+      "street1": "5165 State Route 11",
+      "street2": null,
+      "city": "Burke",
+      "state": "NY",
+      "zip": "12917",
+      "phone": "(518) 483-5941",
+      "fax": "(518) 483-3592"
+    },
+    {
+      "name": "Champlain Station",
+      "street1": "1969 Ridge Road",
+      "street2": null,
+      "city": "Champlain",
+      "state": "NY",
+      "zip": "12919",
+      "phone": "(518) 298-2531",
+      "fax": "(518) 298-4805"
+    },
+    {
+      "name": "Massena Station",
+      "street1": "135 Trippany Road",
+      "street2": null,
+      "city": "Massena",
+      "state": "NY",
+      "zip": "13662",
+      "phone": "(315) 769-2342",
+      "fax": "(315) 764-5727"
+    },
+    {
+      "name": "Niagara Falls Station",
+      "street1": "1708 Lafayette Avenue",
+      "street2": null,
+      "city": "Niagara Falls",
+      "state": "NY",
+      "zip": "14305",
+      "phone": "(716) 285-6444",
+      "fax": "(716) 285-6460"
+    },
+    {
+      "name": "Ogdensburg Station",
+      "street1": "127 North Water Street",
+      "street2": null,
+      "city": "Ogdensburg",
+      "state": "NY",
+      "zip": "13669",
+      "phone": "(315) 393-1150",
+      "fax": "(315) 393-9204"
+    },
+    {
+      "name": "Oswego Station",
+      "street1": "19 East Schuyler Street",
+      "street2": null,
+      "city": "Oswego",
+      "state": "NY",
+      "zip": "13126",
+      "phone": "(315) 342-7017",
+      "fax": "(315) 342-7639"
+    },
+    {
+      "name": "Rochester Station",
+      "street1": "171 Pattonwood Drive",
+      "street2": null,
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14617",
+      "phone": "(585) 266-2802",
+      "fax": "(585) 266-5772"
+    },
+    {
+      "name": "Wellesley Island Station",
+      "street1": "45864 Landon Road",
+      "street2": null,
+      "city": "Wellesley Island",
+      "state": "NY",
+      "zip": "13640",
+      "phone": "(315) 482-7556",
+      "fax": "(315) 482-5740"
+    },
+    {
+      "name": "Bottineau Station",
+      "street1": "1235 11th Street East",
+      "street2": null,
+      "city": "Bottineau",
+      "state": "ND",
+      "zip": "58318",
+      "phone": "(701) 228-3179",
+      "fax": "(701) 228-2653"
+    },
+    {
+      "name": "Grand Forks Station",
+      "street1": "1816 17th Street NE",
+      "street2": null,
+      "city": "Grand Forks",
+      "state": "ND",
+      "zip": "58203",
+      "phone": "(701) 772-3056",
+      "fax": "(701) 775-8358"
+    },
+    {
+      "name": "Portal Station",
+      "street1": "500 2nd Avenue East",
+      "street2": null,
+      "city": "Portal",
+      "state": "ND",
+      "zip": "58772",
+      "phone": "(701) 926-7570",
+      "fax": "(701) 926-7592"
+    },
+    {
+      "name": "Sandusky Bay Station",
+      "street1": "709 SE Catawba Road",
+      "street2": null,
+      "city": "Port Clinton",
+      "state": "OH",
+      "zip": "43452",
+      "phone": "(419) 732-4400",
+      "fax": "(419) 732-4480"
+    },
+    {
+      "name": "Erie Station",
+      "street1": "7851 Traut Drive",
+      "street2": null,
+      "city": "Fairview",
+      "state": "PA",
+      "zip": "16415",
+      "phone": "(814) 474-4700",
+      "fax": "(814) 474-4540"
+    },
+    {
+      "name": "Ramey Station",
+      "street1": "722 Belt Street",
+      "street2": null,
+      "city": "Aguadilla",
+      "state": "PR",
+      "zip": "00603",
+      "phone": "(787) 890-4747",
+      "fax": "(787) 882-3541"
+    },
+    {
+      "name": "Abilene Station",
+      "street1": "1945 Industrial Blvd",
+      "street2": null,
+      "city": "Abilene",
+      "state": "TX",
+      "zip": "79602",
+      "phone": "(325) 698-5552",
+      "fax": "(325) 698-7106"
+    },
+    {
+      "name": "Alpine Station",
+      "street1": "3003 West Highway 90",
+      "street2": null,
+      "city": "Alpine",
+      "state": "TX",
+      "zip": "79831",
+      "phone": "(432) 837-6100",
+      "fax": "(432) 837-2780"
+    },
+    {
+      "name": "Amarillo Sub-Station",
+      "street1": "8601 East Amarillo Boulevard",
+      "street2": null,
+      "city": "Amarillo",
+      "state": "TX",
+      "zip": "79105",
+      "phone": "(806) 373-8926",
+      "fax": "(803) 373-4435"
+    },
+    {
+      "name": "Big Bend Sub-Station",
+      "street1": "Big Bend National Park",
+      "street2": null,
+      "city": "Big Bend National Park",
+      "state": "TX",
+      "zip": "79834",
+      "phone": "(432) 477-2287",
+      "fax": "(432) 477-2273"
+    },
+    {
+      "name": "Brackettville Station",
+      "street1": "802 West Spring Street",
+      "street2": null,
+      "city": "Brackettville",
+      "state": "TX",
+      "zip": "78832",
+      "phone": "(830) 563-6000",
+      "fax": "(830) 563-6075"
+    },
+    {
+      "name": "Brownsville Station",
+      "street1": "940 North FM 511",
+      "street2": null,
+      "city": "Olmito",
+      "state": "TX",
+      "zip": "78575",
+      "phone": "(956) 983-1100",
+      "fax": "(956) 350-4243"
+    },
+    {
+      "name": "Carrizo Springs Station",
+      "street1": "1868 Highway 85 East",
+      "street2": null,
+      "city": "Carrizo Springs",
+      "state": "TX",
+      "zip": "78834",
+      "phone": "(830) 876-1453",
+      "fax": "(830) 876-9515"
+    },
+    {
+      "name": "Clint Station",
+      "street1": "13400 Alameda Avenue",
+      "street2": null,
+      "city": "Clint",
+      "state": "TX",
+      "zip": "79836",
+      "phone": "(915) 872-4100",
+      "fax": "(915) 872-4297"
+    },
+    {
+      "name": "Comstock Station",
+      "street1": "27685 Highway 90 West",
+      "street2": null,
+      "city": "Comstock",
+      "state": "TX",
+      "zip": "78837",
+      "phone": "(432) 292-4600",
+      "fax": "(432) 292-4601"
+    },
+    {
+      "name": "Corpus Christi Station",
+      "street1": "9149 State Highway 44",
+      "street2": null,
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78406",
+      "phone": "(361) 879-4300",
+      "fax": "(361) 879-4471"
+    },
+    {
+      "name": "Cotulla Station",
+      "street1": "3423 Interstate Highway 35",
+      "street2": null,
+      "city": "Cotulla",
+      "state": "TX",
+      "zip": "78014",
+      "phone": "(210) 242-1600",
+      "fax": "(210) 242-1660"
+    },
+    {
+      "name": "Dallas Station",
+      "street1": "2800 South Pipeline Road",
+      "street2": null,
+      "city": "Euless",
+      "state": "TX",
+      "zip": "76040",
+      "phone": "(817) 571-2146",
+      "fax": "(817) 571-1653"
+    },
+    {
+      "name": "Del Rio Station",
+      "street1": "2300 Highway 90 East",
+      "street2": null,
+      "city": "Del Rio",
+      "state": "TX",
+      "zip": "78840",
+      "phone": "(830) 778-3000",
+      "fax": "(830) 778-3495"
+    },
+    {
+      "name": "Eagle Pass South Station",
+      "street1": "4156 El Indio Highway",
+      "street2": null,
+      "city": "Eagle Pass",
+      "state": "TX",
+      "zip": "78852",
+      "phone": "(830) 752-3300",
+      "fax": "(830) 757-4457"
+    },
+    {
+      "name": "Eagle Pass Station",
+      "street1": "2285 Del Rio Boulevard",
+      "street2": null,
+      "city": "Eagle Pass",
+      "state": "TX",
+      "zip": "78852",
+      "phone": "(830) 758-4000",
+      "fax": "(830) 758-4049"
+    },
+    {
+      "name": "El Paso Station",
+      "street1": "9201 Gateway South Boulevard",
+      "street2": null,
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79924",
+      "phone": "(915) 585-1924",
+      "fax": "(915) 585-6640"
+    },
+    {
+      "name": "Falfurrias Station",
+      "street1": "933 County Road 300",
+      "street2": null,
+      "city": "Falfurrias",
+      "state": "TX",
+      "zip": "78355",
+      "phone": "(361) 325-7000",
+      "fax": "(361) 325-7103"
+    },
+    {
+      "name": "Fort Brown Station",
+      "street1": "3305 South Expressway 83",
+      "street2": null,
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78521",
+      "phone": "(956) 983-7100",
+      "fax": "(956) 983-7174"
+    },
+    {
+      "name": "Fort Hancock Station",
+      "street1": "828 South Highway 1088",
+      "street2": null,
+      "city": "Fort Hancock",
+      "state": "TX",
+      "zip": "79839",
+      "phone": "(915) 769-1700",
+      "fax": "(915) 769-1327"
+    },
+    {
+      "name": "Fort Stockton Station",
+      "street1": "1801 Front Street",
+      "street2": null,
+      "city": "Fort Stockton",
+      "state": "TX",
+      "zip": "79735",
+      "phone": "(432) 336-2468",
+      "fax": "(432) 336-6418"
+    },
+    {
+      "name": "Freer Station",
+      "street1": "5087 Highway 44",
+      "street2": null,
+      "city": "Freer",
+      "state": "TX",
+      "zip": "78357",
+      "phone": "(361) 698-5400",
+      "fax": "(361) 394-5690"
+    },
+    {
+      "name": "Harlingen Station",
+      "street1": "3902 South Expressway 77",
+      "street2": null,
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78552",
+      "phone": "(956) 366-3000",
+      "fax": "(956) 366-3001"
+    },
+    {
+      "name": "Hebbronville Station",
+      "street1": "34 East Highway 359",
+      "street2": null,
+      "city": "Hebbronville",
+      "state": "TX",
+      "zip": "78361",
+      "phone": "(361) 886-1700",
+      "fax": "(361) 527-3409"
+    },
+    {
+      "name": "Kingsville Station",
+      "street1": "2422 East Senator Carlos Truan Boulevard",
+      "street2": null,
+      "city": "Kingsville",
+      "state": "TX",
+      "zip": "78363",
+      "phone": "(361) 595-8700",
+      "fax": "(361) 221-9821"
+    },
+    {
+      "name": "Laredo North Station",
+      "street1": "11119 McPherson Road",
+      "street2": null,
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78045",
+      "phone": "(956) 764-3800",
+      "fax": "(956) 764-3870"
+    },
+    {
+      "name": "Laredo South Station",
+      "street1": "9001 San Dario Avenue",
+      "street2": null,
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78045",
+      "phone": "(956) 764-3600",
+      "fax": "(956) 764-3653"
+    },
+    {
+      "name": "Laredo West Station",
+      "street1": "202 State Highway 255",
+      "street2": null,
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78045",
+      "phone": "(956) 417-2100",
+      "fax": "(956) 417-2191"
+    },
+    {
+      "name": "Lubbock Station",
+      "street1": "1205 Texas Avenue",
+      "street2": null,
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79401",
+      "phone": "(806) 472-7355",
+      "fax": "(806) 472-7393"
+    },
+    {
+      "name": "Marfa Station",
+      "street1": "717 South Highland",
+      "street2": null,
+      "city": "Marfa",
+      "state": "TX",
+      "zip": "79843",
+      "phone": "(432) 729-5600",
+      "fax": "(432) 729-4690"
+    },
+    {
+      "name": "McAllen Station",
+      "street1": "3000 West Military Highway",
+      "street2": null,
+      "city": "McAllen",
+      "state": "TX",
+      "zip": "78503",
+      "phone": "(956) 217-3700",
+      "fax": "(956) 686-4609"
+    },
+    {
+      "name": "Midland Station",
+      "street1": "2800A LaForce Boulevard",
+      "street2": null,
+      "city": "Midland",
+      "state": "TX",
+      "zip": "79711",
+      "phone": "(432) 561-8911",
+      "fax": "(432) 561-9106"
+    },
+    {
+      "name": "Pecos Station",
+      "street1": "300 East Palmer Street",
+      "street2": null,
+      "city": "Pecos",
+      "state": "TX",
+      "zip": "79772",
+      "phone": "(432) 447-4813",
+      "fax": "(432) 447-4514"
+    },
+    {
+      "name": "Presidio Station",
+      "street1": "Highways 170 and 67",
+      "street2": null,
+      "city": "Presidio",
+      "state": "TX",
+      "zip": "79845",
+      "phone": "(432) 229-3330",
+      "fax": "(432) 229-3893"
+    },
+    {
+      "name": "Rio Grande City Station",
+      "street1": "730 Border Patrol Lane",
+      "street2": null,
+      "city": "Rio Grande City",
+      "state": "TX",
+      "zip": "78582",
+      "phone": "(956) 487-1044",
+      "fax": "(956) 487-1059"
+    },
+    {
+      "name": "Rocksprings Station",
+      "street1": "605 West Main Street",
+      "street2": null,
+      "city": "Rocksprings",
+      "state": "TX",
+      "zip": "78880",
+      "phone": "(830) 683-2255",
+      "fax": "(830) 683-5231"
+    },
+    {
+      "name": "San Angelo Station",
+      "street1": "8210 Hangar Road",
+      "street2": null,
+      "city": "San Angelo",
+      "state": "TX",
+      "zip": "76904",
+      "phone": "(325) 949-0139",
+      "fax": "(325) 942-1542"
+    },
+    {
+      "name": "San Antonio Station",
+      "street1": "5000 NW Industrial Drive",
+      "street2": null,
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78238",
+      "phone": "(210) 521-7926",
+      "fax": "(210) 472-4213"
+    },
+    {
+      "name": "Sanderson Station",
+      "street1": "Highway 90 West",
+      "street2": null,
+      "city": "Sanderson",
+      "state": "TX",
+      "zip": "79848",
+      "phone": "(432) 345-2972",
+      "fax": "(432) 345-2609"
+    },
+    {
+      "name": "Sierra Blanca Station",
+      "street1": "900 Aztec Drive",
+      "street2": null,
+      "city": "Sierra Blanca",
+      "state": "TX",
+      "zip": "79851",
+      "phone": "(915) 369-4000",
+      "fax": "(915) 369-4110"
+    },
+    {
+      "name": "Uvalde Station",
+      "street1": "30 Industrial Park",
+      "street2": null,
+      "city": "Uvalde",
+      "state": "TX",
+      "zip": "78801",
+      "phone": "(830) 486-7600",
+      "fax": "(830) 278-6425"
+    },
+    {
+      "name": "Van Horn Station",
+      "street1": "500 Laurel Street",
+      "street2": null,
+      "city": "Van Horn",
+      "state": "TX",
+      "zip": "79855",
+      "phone": "(432) 283-3100",
+      "fax": "(432) 283-3196"
+    },
+    {
+      "name": "Weslaco Station",
+      "street1": "1501 East Expressway 83",
+      "street2": null,
+      "city": "Weslaco",
+      "state": "TX",
+      "zip": "78559",
+      "phone": "(956) 647-8800",
+      "fax": "(956) 969-8252"
+    },
+    {
+      "name": "Ysleta Station",
+      "street1": "12245 Pine Springs Drive",
+      "street2": null,
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79936-7828",
+      "phone": "(915) 435-1100",
+      "fax": "(915) 834-8595"
+    },
+    {
+      "name": "Zapata Station",
+      "street1": "105 Kennedy Street",
+      "street2": null,
+      "city": "Zapata",
+      "state": "TX",
+      "zip": "78076",
+      "phone": "(956) 519-5600",
+      "fax": "(956) 519-5626"
+    },
+    {
+      "name": "Beecher Falls Station",
+      "street1": "1429 Vermont Route 253",
+      "street2": null,
+      "city": "Beecher Falls",
+      "state": "VT",
+      "zip": "05902",
+      "phone": "(802) 266-3035",
+      "fax": "(802) 266-7202"
+    },
+    {
+      "name": "Newport Station",
+      "street1": "145 Citizens Road",
+      "street2": null,
+      "city": "Newport",
+      "state": "VT",
+      "zip": "05855",
+      "phone": "(802) 334-7903",
+      "fax": "(802) 334-5893"
+    },
+    {
+      "name": "Richford Station",
+      "street1": "1668 St. Albans Road",
+      "street2": null,
+      "city": "Richford",
+      "state": "VT",
+      "zip": "05476",
+      "phone": "(802) 848-3434",
+      "fax": "(802) 848-3041"
+    },
+    {
+      "name": "Swanton Station",
+      "street1": "62 Airport Road",
+      "street2": null,
+      "city": "Swanton",
+      "state": "VT",
+      "zip": "05488",
+      "phone": "(802) 868-3220",
+      "fax": "(802) 868-2434"
+    },
+    {
+      "name": "Bellingham Station",
+      "street1": "1431 Sunset Avenue",
+      "street2": null,
+      "city": "Ferndale",
+      "state": "WA",
+      "zip": "98248-8914",
+      "phone": "(360) 380-0408",
+      "fax": "(360) 380-0199"
+    },
+    {
+      "name": "Blaine Station",
+      "street1": "1580 H Street",
+      "street2": null,
+      "city": "Blaine",
+      "state": "WA",
+      "zip": "98230-9114",
+      "phone": "(360) 332-1721",
+      "fax": "(360) 332-6232"
+    },
+    {
+      "name": "Colville Station",
+      "street1": "200 Buena Vista Drive",
+      "street2": null,
+      "city": "Colville",
+      "state": "WA",
+      "zip": "99114",
+      "phone": "(509) 684-6272",
+      "fax": "(509) 684-1206"
+    },
+    {
+      "name": "Curlew Station",
+      "street1": "5 Forest Lane",
+      "street2": null,
+      "city": "Curlew",
+      "state": "WA",
+      "zip": "99118",
+      "phone": "(509) 779-4376",
+      "fax": "(509) 779-4539"
+    },
+    {
+      "name": "Metaline Falls Station",
+      "street1": "105 Highway 31",
+      "street2": null,
+      "city": "Metaline",
+      "state": "WA",
+      "zip": "99152",
+      "phone": "(509) 446-1037",
+      "fax": "(509) 446-1036"
+    },
+    {
+      "name": "Oroville Station",
+      "street1": "21 Shirley Road",
+      "street2": null,
+      "city": "Oroville",
+      "state": "WA",
+      "zip": "98844",
+      "phone": "(509) 476-3622",
+      "fax": "(509) 476-2525"
+    },
+    {
+      "name": "Port Angeles Station",
+      "street1": "110 South Penn Street",
+      "street2": null,
+      "city": "Port Angeles",
+      "state": "WA",
+      "zip": "98362",
+      "phone": "(360) 565-7300",
+      "fax": "(360) 565-7325"
+    }
+  ]
+}
