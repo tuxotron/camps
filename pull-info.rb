@@ -25,7 +25,7 @@ class Camp
   end
 end
 
-doc = Nokogiri::HTML(open('http://concentrationcamps.us/cbp.html'))
+doc = Nokogiri::HTML(open('https://concentrationcamps.us/cbp.html'))
 
 camp = nil
 camps = Array.new
