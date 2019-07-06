@@ -26,7 +26,6 @@ func campsEndPoint(w http.ResponseWriter, r *http.Request) {
 
 	var res interface{}
 	if len(state) > 0 {
-		fmt.Println(state)
 		res = jq.From("camps").Where("state", "=", state).Get()
 	} else {
 		res = jq.From("camps").Get()
